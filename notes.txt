@@ -1,0 +1,6 @@
+rest operator
+
+spread operator
+
+
+http://localhost:1400/api/products?title=Suit[$gte]:600    // {price:{$gte:600}}
